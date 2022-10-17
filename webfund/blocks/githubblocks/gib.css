@@ -1,0 +1,40 @@
+.row1{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 15px;
+    
+}
+
+.row2 {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin: 15px;
+}
+
+
+
+.row3 {
+background-color: white;
+padding: 10px;
+display: flex;
+justify-content: space-around;
+margin: 15px;
+
+} 
+
+img{
+    width: 100px;
+    
+}
+
+h1{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+}

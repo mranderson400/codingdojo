@@ -1,0 +1,30 @@
+.container{
+    height: 800px;
+    width:  1200px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.Row{
+    flex: 1;
+    
+
+}
+
+.Red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+   
+}
+.Green{
+    background-color: green;
+}
+h1{
+    height: 100%;
+}
